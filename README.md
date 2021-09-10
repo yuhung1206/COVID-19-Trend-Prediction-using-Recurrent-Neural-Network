@@ -12,11 +12,15 @@ The gloabl data of comfired cases please refer to -> https://ourworldindata.org/
     ```
     python3 Preprocess.py
     ```
- 2. **RNN** for trend prediction : training the model with **Torch** package.  
-    Visualization on a world map by **"pygal"** packag  
+ 2. **RNN** for trend prediction : training the model with **Torch** package.
      ```
     python3 RNN.py
-    ```  
+    ```    
+ 3. Visualization on a world map by **"pygal"** packag  
+    ```
+    python3 WorldMap.py
+    ```   
+    
     
      
 ## Sequence Preprocessing  
