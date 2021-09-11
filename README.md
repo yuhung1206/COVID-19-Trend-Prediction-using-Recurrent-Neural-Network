@@ -39,7 +39,8 @@ The gloabl data of comfired cases please refer to :point_right: https://ourworld
 ## RNN for Classification  
  
   - **RNN with 2 layers & dropout**  
-    In this project, dropout is selected to aviod overfitting problem.  
+    In this project, dropout is adopted to aviod overfitting problem.  
+    
     ![image](https://user-images.githubusercontent.com/78803926/132838592-0dd30435-9c5d-461d-8aaa-ffd64927c2df.png)  
       
     ![image](https://user-images.githubusercontent.com/78803926/132838897-fa345ff7-64c5-48f6-b665-75130e513138.png) 
