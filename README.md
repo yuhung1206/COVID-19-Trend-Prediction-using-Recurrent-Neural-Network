@@ -1,8 +1,10 @@
 # COVID-19-Trend-Prediction-using-Recurrent-Neural-Network
-Predict whether the number of confirmed cases will increase or not with the use of RNN, LSTM &amp; GRU.
+Predict whether the number of confirmed cases will increase or not with the use of RNN, LSTM &amp; GRU.  
 
+  
+## Dataset  
 Observe the sequences of comfirmed cases during 2020-1-22 ~ 2020-4-12 from 185 countries.  
-The gloabl data of comfired cases please refer to -> https://ourworldindata.org/coronavirus  
+The gloabl data of comfired cases please refer to :point_right: https://ourworldindata.org/coronavirus  
 
   ![image](https://user-images.githubusercontent.com/78803926/132695426-95a8f4cd-b9e2-40ea-bd24-66a3b5f4d9af.png)  
   
