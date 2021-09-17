@@ -29,7 +29,7 @@ The gloabl data of comfired cases please refer to :point_right: https://ourworld
   1. Compute to **correlation coefficient (CC)** between 2 countries.  
      ![image](https://user-images.githubusercontent.com/78803926/132826430-d0208042-35dc-497c-bde2-730d73fd9e42.png)
   
-  2. Add the pair of countries to set C if their CC higher than 0.7 (highly-correlated)  
+  2. Add the pair of countries to set C if their CC higher than **0.7 (highly-correlated)**  
      ![image](https://user-images.githubusercontent.com/78803926/132838262-b0dca023-09bb-46bb-859d-a272e4f362b7.png)
 
   4. Generate the data pair (segment,lebel) for modelling from set C  
